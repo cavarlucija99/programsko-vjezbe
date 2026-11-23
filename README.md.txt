@@ -5,8 +5,5 @@ danas radim prvi pravi git projekt
 
 novi red
 
-<<<<<<< HEAD
-promjena na master grani
-=======
-promjena u grani druga-verzija
->>>>>>> druga-verzija
+
+promjena na master grani, finalno spremljena
