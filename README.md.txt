@@ -7,3 +7,6 @@ novi red
 
 
 promjena na master grani, finalno spremljena
+
+
+ovo je neka nova kao izmjena!!!
