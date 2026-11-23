@@ -4,3 +4,5 @@ danas radim prvi pravi git projekt
 -prvi put ikad  radila README
 
 novi red
+
+promjena u grani druga-verzija
